@@ -1,3 +1,3 @@
 import os
 import mn
-mn.login()
+mn.loging()
